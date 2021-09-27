@@ -1,0 +1,58 @@
+.fond{
+	height: 400px;
+	width: 450px;
+	background-color: gray;
+	margin-top: 100px;
+}
+
+.superieur{ 
+	position: relative;
+	display: flex;
+	padding-top: 180px;
+	height: 50px;
+	width: 200px;
+	padding-bottom: 15px;
+}
+
+.chevron1{
+	color: red;
+	font-size: 45px;
+	padding-top: -90px;
+
+}
+
+.access{
+	color: white;
+	font-family: impact;
+	font-size: 35px;
+
+}
+
+.code p{
+	color: white;
+	background-color: red;
+	width: 75px;
+	height: 37px;
+	font-family: impact;
+	font-size: 35px;
+
+}
+
+.chevron2{
+	color: red;
+	font-size: 45px;
+	padding-bottom: 90px;
+}
+
+hr{
+	width: 185px;
+	margin-left: 150px;
+}
+
+.school{
+	width: 50px;
+	font-family: helvetica;
+	margin-top: -40px;
+	margin-right: 88px;
+
+}
